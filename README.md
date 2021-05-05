@@ -1,5 +1,5 @@
 # Nuclear Energy in America 2019
-> Which states have nuclear energy? How much are they producing? This is a dashboard that answers these questions. 
+Which states have nuclear energy? How much are they producing? This is a dashboard that answers these questions. 
 
 ## Table of contents
 * [General info](#general-info)
