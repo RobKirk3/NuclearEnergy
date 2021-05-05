@@ -16,6 +16,8 @@ I got my data from the US Energy Information Administration website (eia.gov).
 This data showed the energy production amount by all nuclear power plants by state, facility, and reactor for 2019. 
 My question was: How much nuclear power are we making, and who is making it?
 
+Link to PowerBI Dashboard: https://app.powerbi.com/groups/me/reports/3e08f427-79f1-4cca-a3de-73edc89d1e86/ReportSection
+
 
 ## Screenshots
 ![Example screenshot](./screenshot.jpg)
